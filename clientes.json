@@ -1,0 +1,25 @@
+{
+  "total": 20,
+  "page": 1,
+  "limit": 5,
+
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Carlos Ramírez",
+      "email": "carlos.ramirez@example.com",
+      "telefono": "123456789",
+      "direccion": "Calle Principal 456",
+      "activo": false
+    },
+    {
+      "id": 3,
+      "nombre": "Sofía González",
+      "email": "sofia.gonzalez@example.com",
+      "telefono": "321654987",
+      "direccion": "Avenida San Martín 654",
+      "activo": true
+    }
+  ],
+  "interacciones": []
+}
